@@ -151,7 +151,7 @@ Placing a Donut Chart with 70 product categories as a Map Tooltip made it comple
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/](https://github.com/)Kuba27x/olist-ecommerce-analytics.git
+   git clone [https://github.com/](https://github.com/Kuba27x/olist-ecommerce-analytics.git)
    ```
 2. **Database Setup:** Execute the SQL scripts located in the `sql_scripts` folder to create the database schema and views.
 3. **ETL & Data Science:** Run the Jupyter Notebooks (`.ipynb`) in the `notebooks` folder to perform data cleaning and RFM segmentation. *(Requires downloading the raw dataset from Kaggle).*
